@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samir Kumar Roy
-- 🌱 I have been learning MERN stack
+- 🌱 An aspiring Software Developer
 - 💞️ I’m looking to collaborate on css, vanilla javascript, reactjs and nodejs projects.
 - 📫 You can find me on
 - Twitter: www.twitter.com/samir_kumar_roy
